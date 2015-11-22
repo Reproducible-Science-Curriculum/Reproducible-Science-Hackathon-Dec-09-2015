@@ -1,4 +1,4 @@
-_This document is merely for keeping a record of what was originally posted on the planning repository issue tracker._
+_This document is merely for keeping a record of [what was originally posted](https://github.com/Reproducible-Science-Curriculum/planning/issues/2) on the planning repository issue tracker._
 
 ## 2nd Reproducible Science Hackathon for curriculum and material development
 Almost to the day one year after the [first event](https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/) we will be holding the 2nd Reproducible Science Hackathon. Targets for the event include but are not limited to translating the R-specific material to Python; refactoring and refinement of the existing material to increase the possibilities for reuse by mix-and-match; addressing common feedback from the workshops that have been taught; and the development of more advanced modules (such as on using Docker).
@@ -16,3 +16,9 @@ https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackatho
 Funding is available to support travel expenses. Please be sure to indicate your need of travel support in the online application form.
 
 Review of applications will be on a rolling basis starting immediately until seats are filled. Because we are not planning orientation activities to familiarize participants with reproducibility issues in general or the Reproducible Science Curriculum in particular, preference will be given to applicants who have participated in Reproducible Science Curriculum activities in the past, or who can demonstrate that they will likely be productive at the event without such orientation. Depending on airfares, applicants requiring travel support may be not be considered after Nov 1.
+
+## Organizing Committee
+* Karen Cranston, Duke University
+* Hilmar Lapp, Duke University
+* Francois Michonneau, University of Florida
+* Tracy Teal, Data Carpentry
