@@ -23,7 +23,9 @@ Based on this feedback, we made the following changes to the workshop materials:
 * new exercises for project organization
 * converting slides to common, text-based formats
 
-**A final note on R-vs-python**: The materials currently use R + RStudio + knitr for all examples, and we intially had  'translate-the-lessons-to-python' on the agenda for this meeting. After some discussion, we decided that our time in Gainesville was better spent revising the existing lessons. This gives us a high-quality set of R-based lessons ready for teaching. But, pythonistas should not despair! We are already planning another event focused on developing a parallel set of materials on reproducibility using python (likely using [Jupyter notebooks]).
+**A note on R-vs-python**: The materials currently use R + RStudio + knitr for all examples, and we intially had  'translate-the-lessons-to-python' on the agenda for this meeting. After some discussion, we decided that our time in Gainesville was better spent revising the existing lessons. This gives us a high-quality set of R-based lessons ready for teaching. But, pythonistas should not despair! We are already planning another event focused on developing a parallel set of materials on reproducibility using python (likely using [Jupyter notebooks]).
+
+**Interested in using this material?** Go ahead! We've put it in the public domain under a [CC0 waiver]. Have questions? Each lesson has contact information in the README, or you can contact [Hilmar Lapp] for general questions about the #rrhack project. 
 
 [initial hackathon]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015
 [Duke University]: http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/
@@ -35,3 +37,5 @@ Based on this feedback, we made the following changes to the workshop materials:
 [template repo]: https://github.com/Reproducible-Science-Curriculum/template-module
 [version control lessons]: https://github.com/Reproducible-Science-Curriculum/rr-version-control
 [Jupyter notebooks]: http://jupyter.org/
+[CC0 waiver]: https://creativecommons.org/publicdomain/zero/1.0/
+[Hilmar Lapp]: https://github.com/hlapp
