@@ -25,13 +25,13 @@ Based on this feedback, we made the following changes to the workshop materials:
 
 **A final note on R-vs-python**: The materials currently use R + RStudio + knitr for all examples, and we intially had  'translate-the-lessons-to-python' on the agenda for this meeting. After some discussion, we decided that our time in Gainesville was better spent revising the existing lessons. This gives us a high-quality set of R-based lessons ready for teaching. But, pythonistas should not despair! We are already planning another event focused on developing a parallel set of materials on reproducibility using python (likely using [Jupyter notebooks]).
 
-[initial hackathon]: (https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015)
-[Duke University]: (http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/)
-[iDigBio / University of Florida]: (http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/)
-[Duke Marine Lab]: (http://reproducible-science-curriculum.github.io/2015-09-24-reproducible-science-duml/)
-[second hackathon]: (https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015)
-[overview of the workshop]: (https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/workshopOverview.md)
-[workshop template]: (https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md)
-[template repo]: (https://github.com/Reproducible-Science-Curriculum/template-module)
-[version control lessons]: (https://github.com/Reproducible-Science-Curriculum/rr-version-control)
-[Jupyter notebooks]: (http://jupyter.org/)
+[initial hackathon]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015
+[Duke University]: http://reproducible-science-curriculum.github.io/2015-05-14-reproducible-science-duke/
+[iDigBio / University of Florida]: http://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/
+[Duke Marine Lab]: http://reproducible-science-curriculum.github.io/2015-09-24-reproducible-science-duml/
+[second hackathon]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-09-2015
+[overview of the workshop]: https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/workshopOverview.md
+[workshop template]: https://github.com/Reproducible-Science-Curriculum/workshop-planning/blob/master/moduleTemplate.md
+[template repo]: https://github.com/Reproducible-Science-Curriculum/template-module
+[version control lessons]: https://github.com/Reproducible-Science-Curriculum/rr-version-control
+[Jupyter notebooks]: http://jupyter.org/
