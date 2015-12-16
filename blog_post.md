@@ -1,4 +1,8 @@
-# Reproducible Science Hackathon, Take 2
+# Data Carpentry adopting Reproducible Research Curriculum
+
+One of the missions of Data Carpentry is to encourage and enable reproducible research. The core Data Carpentry curriculum teaches researchers approaches and skills, like scripting and data management, that are fundamental to reproducible research. We are also going to be adopting a Reproducible Research curriculum that explicitly focuses on reproducible techniques and some of the next steps, including version control and data publishing. This is an update on the efforts on this curriculum so far, and soon we will have it available as a Data Carpentry workshop option.  
+
+## Reproducible Research Hackathon, Take 2
 
   * hashtag: [#rrhack](https://twitter.com/hashtag/rrhack)
 
