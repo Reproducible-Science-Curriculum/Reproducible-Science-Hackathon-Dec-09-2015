@@ -1,3 +1,5 @@
+_This article was [published at the Data Carpentry blog](http://www.datacarpentry.org/blog/reproducible-research-curriculum/) in December 2015._
+
 # Data Carpentry adopting Reproducible Research Curriculum
 
 One of the missions of Data Carpentry is to encourage and enable reproducible research. The core Data Carpentry curriculum teaches researchers approaches and skills, like scripting and data management, that are fundamental to reproducible research. We are also going to be adopting a Reproducible Research curriculum that explicitly focuses on reproducible techniques and some of the next steps, including version control and data publishing. This is an update on the efforts on this curriculum so far, and soon we will have it available as a Data Carpentry workshop option.  
